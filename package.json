@@ -1,0 +1,21 @@
+{
+  "name": "tasky-application",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "aaisha": "node server.jsdev",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Aaisha011/Tasky-Application)"
+  },
+  "author": "Aaisha Khan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
